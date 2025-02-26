@@ -1,6 +1,5 @@
 # Prodigy_InfoTech_ML
 
-Here’s a refined version with slight modifications for clarity and fluency:
 
 PRODIGY INTERNSHIP - MACHINE LEARNING
 
